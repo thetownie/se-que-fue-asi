@@ -1,0 +1,136 @@
+@media (max-width: 767.98px)  { 
+  // Small devices (landscape phones, less than 768px)
+
+  .gallery-container {
+    // border: 2px solid red;
+    width: 95% !important;
+    height: 100px;
+    position: relative;
+    top: 0;
+    left: 10px;
+    display: flex;
+    flex-direction: row;
+    padding: 1.5em .5em 2em ;
+    justify-content: space-between;
+    .project-title{
+      // border: 2px solid red;
+      width: 40%;
+      margin-right: 5px;
+      font-family: Whyte-Inktrap-Medium;
+      overflow-wrap: break-word;
+    }
+    .project-title > h3 {
+      font-size: 21px;
+      line-height: 1em;
+
+    }
+
+    .nav-container{
+      // border: 1px solid red;
+      position: relative;
+      left: 20px;
+      display:flex;
+      justify-content: flex-end;
+      align-items: center;
+      font-family: Whyte-Inktrap-Medium;
+
+      
+      a {
+        text-decoration: none;
+        color: black;
+      }
+      a > h3 {
+        font-size: 21px;
+
+      }
+
+      .hover:hover {
+        font-style: italic;
+        &:before,
+        &:after {
+          font-style: italic;
+        }
+      }
+      .index-header {
+        cursor: pointer;
+        margin-right: 1em;
+      }
+      .index-header:hover{
+        border: none;
+        cursor: pointer;
+        visibility: visible;
+      }
+      .about-header {
+        cursor: default;
+        margin-right: 1em;
+      }
+      .about-header:hover{
+        border: none;
+        cursor: pointer;
+        visibility: visible;
+      }
+    }
+  }
+}
+
+@media (min-width:768px) { 
+  /* big landscape tablets, laptops, and desktops */ 
+
+  .gallery-container {
+    // border: 1px solid red;
+    width: 95% !important;
+    height: 100px;
+    position: relative;
+    top: 0;
+    left: 10px;
+    display: flex;
+    flex-direction: row;
+    padding: 1.5em .5em 2em ;
+    justify-content: space-between;
+    .project-title{
+      width: 40%;
+      margin-right: 5px;
+      font-family: Whyte-Inktrap-Medium;
+    }
+
+    .nav-container{
+      // border: 1px solid red;
+      position: relative;
+      left: 20px;
+      display:flex;
+      justify-content: flex-end;
+      align-items: center;
+      font-family: Whyte-Inktrap-Medium;
+      a {
+       text-decoration: none;
+       color: black;
+      }
+      .hover:hover {
+        font-style: italic;
+        &:before,
+        &:after {
+          font-style: italic;
+        }
+      }
+      .index-header {
+        cursor: pointer;
+        margin-right: 1em;
+      }
+      .index-header:hover{
+        border: none;
+        cursor: pointer;
+        visibility: visible;
+      }
+      .about-header {
+        cursor: default;
+        margin-right: 1em;
+      }
+      .about-header:hover{
+        border: none;
+        cursor: pointer;
+        visibility: visible;
+      }
+    }
+  }
+  
+}
