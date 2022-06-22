@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/static/css/main.4131be53.chunk.css",
-    "main.js": "/static/js/main.ed0318ae.chunk.js",
-    "main.js.map": "/static/js/main.ed0318ae.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.c99ad947.js",
-    "runtime-main.js.map": "/static/js/runtime-main.c99ad947.js.map",
-    "static/js/2.8b833d9e.chunk.js": "/static/js/2.8b833d9e.chunk.js",
-    "static/js/2.8b833d9e.chunk.js.map": "/static/js/2.8b833d9e.chunk.js.map",
+    "main.css": "/static/css/main.3d94f636.chunk.css",
+    "main.js": "/static/js/main.cade7e75.chunk.js",
+    "main.js.map": "/static/js/main.cade7e75.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.82f5e139.js",
+    "runtime-main.js.map": "/static/js/runtime-main.82f5e139.js.map",
+    "static/js/2.b57e1558.chunk.js": "/static/js/2.b57e1558.chunk.js",
+    "static/js/2.b57e1558.chunk.js.map": "/static/js/2.b57e1558.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.56b3abfb6ef36c37ab50a2e728e68afc.js": "/precache-manifest.56b3abfb6ef36c37ab50a2e728e68afc.js",
+    "precache-manifest.7f33f69ed84cc5f0c4c95be500405128.js": "/precache-manifest.7f33f69ed84cc5f0c4c95be500405128.js",
     "service-worker.js": "/service-worker.js",
-    "static/css/main.4131be53.chunk.css.map": "/static/css/main.4131be53.chunk.css.map",
-    "static/js/2.8b833d9e.chunk.js.LICENSE.txt": "/static/js/2.8b833d9e.chunk.js.LICENSE.txt",
+    "static/css/main.3d94f636.chunk.css.map": "/static/css/main.3d94f636.chunk.css.map",
+    "static/js/2.b57e1558.chunk.js.LICENSE.txt": "/static/js/2.b57e1558.chunk.js.LICENSE.txt",
     "static/media/Akir_with_roses_for_Pink_Bandanazz_Brooklyn_April_2019.mp4": "/static/media/Akir_with_roses_for_Pink_Bandanazz_Brooklyn_April_2019.d10d0df4.mp4",
     "static/media/Alfie_in_the_corset_Brooklyn_March_2019.m4a": "/static/media/Alfie_in_the_corset_Brooklyn_March_2019.cabe6ffd.m4a",
     "static/media/Andi_after_the_protest_Brooklyn_November_2019.m4a": "/static/media/Andi_after_the_protest_Brooklyn_November_2019.c440c957.m4a",
@@ -58,9 +58,9 @@
     "static/media/xime_retrato.PNG": "/static/media/xime_retrato.655d7ace.PNG"
   },
   "entrypoints": [
-    "static/js/runtime-main.c99ad947.js",
-    "static/js/2.8b833d9e.chunk.js",
-    "static/css/main.4131be53.chunk.css",
-    "static/js/main.ed0318ae.chunk.js"
+    "static/js/runtime-main.82f5e139.js",
+    "static/js/2.b57e1558.chunk.js",
+    "static/css/main.3d94f636.chunk.css",
+    "static/js/main.cade7e75.chunk.js"
   ]
 }
